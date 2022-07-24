@@ -33,6 +33,7 @@ h1{
 	background-color: rgba(3, 4, 5, 0.7);
 	box-shadow: 2px 2px 2px black;
 	border-radius: 2px;
+	min-width: 360px;
 }
 
 #inner-box input{
@@ -40,6 +41,8 @@ h1{
 	padding: 15px;
 	border: 0;
 	border-radius: 5px;
+	min-width: 200px;
+	margin-bottom: 5px
 }
 
 #inner-box button{
